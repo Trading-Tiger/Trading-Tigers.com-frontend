@@ -1,1 +1,1 @@
-# Trading-Tigers.com-Home-frontend
+# Trading-Tigers.com frontend
